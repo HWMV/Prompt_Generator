@@ -160,15 +160,15 @@
 ## 1) Generative_ai   
 ###      (일반 사용자 입력 예: HJ'AI라는 AI를 활용한 IT 기업을 창업하려고 합니다. 2024년과 앞으로 미래를 위한 기업 로고를 그려주세요.)
 <초기 자연어 입력>  
-<img align="center" src="./img/generative_ai/240726_우뇌_정책사항추가/자연어_DALL·E.webp">  
+<img align="center" src="./img/자연어.png">  
 <좌뇌 Prompt img>  
-<img align="center" src="./img/generative_ai/240726_우뇌_정책사항추가/좌뇌_DALL·E.webp">  
+<img align="center" src="./img/좌뇌.png">  
 <우뇌 Prompt img>  
-<img align="center" src="./img/generative_ai/240726_우뇌_정책사항추가/우뇌_DALL·E.webp">  
+<img align="center" src="./img/우뇌.png">  
 <최종 Prompt img>  
-<img align="center" src="./img/generative_ai/240726_우뇌_정책사항추가/최종_DALL·E.webp">  
+<img align="center" src="./img/최종.png">  
 <검증 Prompt img>  
-<img align="center" src="./img/generative_ai/240726_우뇌_정책사항추가/검증2_DALL·E.wepb">  
+<img align="center" src="./img/검증.png">  
 
 --- 
 
