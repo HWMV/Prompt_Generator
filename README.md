@@ -12,6 +12,16 @@
 
 ---
 
+## Update Log
+
+####   240723 Update Add Brain Module  
+####   240724 Update Add Conversation AI    
+####   240725 Update Add task_type, tone  
+####   240726 Update Add user_profile  
+
+
+---
+
 ## Module Structure & Process
 < Process >
 ```
